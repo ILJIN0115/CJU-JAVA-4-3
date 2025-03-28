@@ -12,3 +12,32 @@ public class Main {
         System.out.println("5. double -> float: " + (float)doubleValue);
     }
 }
+
+// byte, short, int, long 정수형
+// float 실수형
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// byte(1바이트), short(2바이트), int(4바이트), long(8바이트), - 부호 있는 정수
+// float(4바이트) - 부동 소수 점형
+// byte 범위 - 128에서 127
+// short 범위 - 32768에서32767
+// int 범위 - 2147483648에서 2147483647 (20억 정도)
+// long  범위 - 9223372036854775808에서 9223372036854775807
+// float 범위 - 약 ± 3.40282347 * 10
